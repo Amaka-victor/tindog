@@ -1,0 +1,173 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat';
+  font-weight: bold;
+}
+#title{
+  background-color: #9EE37D;
+  color: #fff;
+  text-align: left;
+}
+h2 {
+  font-size: 3rem;
+  line-height: 2;
+  font-weight: 600;
+}
+.price-text {
+  font-size: 3rem;
+  line-height: 2;
+  font-weight: 600;
+}
+p {
+  color: #8f8f8f;
+}
+/* HEADING SECTION */
+.meet {
+  font-family: 'Montserrat';
+  line-height: 1.5;
+  font-weight: 700;
+}
+.fat {
+  font-family: 'Ubuntu'
+}
+/* FEATURE */
+.feature-box {
+
+  padding: 5%;
+}
+.container-fluid {
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-right: 15%;
+  padding-left: 15%;
+}
+/* Navbar Section */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.navbar-brand {
+  font-size: 2.5rem;
+  font-family: "Ubuntu";
+  font-weight: bold;
+}
+.navbar-item {
+  padding: 0 15px;
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'montserrat' sans-serif;
+  font-weight: 100;
+}
+/* Button-Section */
+.download {
+  margin: 5% 3% 5% 0;
+}
+/* Title Image */
+.title-image {
+  width: 16%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+  z-index: 0;
+}
+/* FEUTURES */
+#features {
+  padding: 7% 15%;
+  position: relative;
+  z-index: 1;
+}
+.fas {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.fas:hover {
+  color: #ff4c68;
+}
+/* TESTIMONIALS SELECTORS */
+#testimonials {
+  padding: 3% 15% 7%;
+
+  background-color: #ef8172;
+  color: #fff;
+}
+.dog-image {
+  border-radius: 100%;
+  width: 10%;
+  margin: 20px;
+}
+#press {
+  background-color: #ef8172;
+
+  padding-bottom: 3%;
+}
+.steal {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+/* Pricing */
+.pricing {
+  padding: 3% 2%;
+}
+.cast {
+  width: 100%;
+}
+#pricing {
+  padding: 100px;
+
+}
+@media(max-width:1028px) {
+  .title-image {
+    position: static;
+    width: 40%;
+    transform: rotate(0);
+  }
+  #title {
+text-align: center;
+
+  }
+}
+/* ENDING */
+#cta {
+
+  background-color: #ff4c68;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.dog {
+  width: 60%;
+  margin: 50px auto 50px;
+  font-family: 'Montserrat';
+  font-weight: 900;
+  color: #fff;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.gate {
+  margin-bottom: 70px;
+}
+/* FOOTER */
+#footer {
+  margin: 100px auto;
+}
+.cot {
+  margin: 30px 10px;
+}
+@media (max-width:1028px) {
+  .dog {
+    width: 60%;
+  }
+}
+/* PRICE HEADING SECTION */
+.section-heading
+/* TITLE SELECTION */
+#title .container-fluid{
+  padding: 3% 15% 7%;
+}
+/* COMPRISING */
+.white-section{
+    background-color: #fff;
+}
